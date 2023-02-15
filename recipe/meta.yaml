@@ -1,5 +1,5 @@
 {% set name = "xdsmjs" %}
-{% set version = "1.0.1" %}
+{% set version = "2.0.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/xdsmjs-{{ version }}.tar.gz
-  sha256: 982411616e7cfd8ac703fd0af7369bf7c01269d69db2dbbcd65672d227e65e8e
+  sha256: 314183dbcf66ab13af1262158a0e45467146ee56856013a8225bf1c0b447562a
 
 build:
   number: 0
